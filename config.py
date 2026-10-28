@@ -21,7 +21,7 @@ if not GROQ_KEYS:
         "❌ No valid Groq API key found! Please check your .env file and set GROQ_KEY_1='gsk_...'"
     )
 
-GROQ_MODEL = os.getenv("GROQ_MODEL", "gpt-4o-mini").strip().strip('"').strip("'")
+GROQ_MODEL = os.getenv("GROQ_MODEL", "openai/gpt-oss-20b").strip().strip('"').strip("'")
 
 _current_key_index = 0
 
