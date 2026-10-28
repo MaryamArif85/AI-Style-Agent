@@ -15,14 +15,7 @@ StyleSync AI is an advanced, state-aware multi-agent fashion stylist built using
 
 ---
 
-## 📸 User Interface Preview
-
-| Brand Catalog Stylist Mode | Custom Unstitched Fabric Mode |
-| :---: | :---: |
-| ![Brand Mode UI](images/brand_mode_preview.png) | ![Tailoring Mode UI](images/tailor_mode_preview.png) |
-| *Curated lookbooks with direct tool-generated links* | *Custom tailoring blueprints for market fabrics* |
-
----
+<!-- ## 📸 User Interface Preview -->
 
 ## 🛠️ Project Structure
 
